@@ -1,5 +1,9 @@
-Welcome Dears in this SCLP Association platform and it has content related to Supply chain, Logistic and Procurement, otherwise i add below down multi link from Linkedin platform
+![cscmp](https://github.com/SCLP-Association/Logistic-service/assets/98842320/126252f6-bf94-4a1a-9302-954f43ac701c)
+![ascm](https://github.com/SCLP-Association/Logistic-service/assets/98842320/6b88238d-c5ee-474a-bc59-de805d09ba71)
+Welcome Dears in this SCLP Association platform and it has content related to Supply chain, Logistic and Procurement, otherwise i add below down multi link from Linkedin platform and another website
 
+https://www.ascm.org/
+https://cscmp.org/
 https://www.linkedin.com/posts/yazeed-hujaili-26a42a1a6_procurementabrart-activity-6966835267781431296-N_Np?utm_source=share&utm_medium=member_android,
 
 https://www.linkedin.com/newsletters/supply-chain-world-6899410192065273856,
