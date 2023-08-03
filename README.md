@@ -1,7 +1,7 @@
 ![cscmp](https://github.com/SCLP-Association/Logistic-service/assets/98842320/126252f6-bf94-4a1a-9302-954f43ac701c)
 ![ascm](https://github.com/SCLP-Association/Logistic-service/assets/98842320/6b88238d-c5ee-474a-bc59-de805d09ba71)
 
-Welcome Dears in this SCLP Association platform and it has content related to Supply chain, Logistic and Procurement, otherwise i add below down multi link from Linkedin platform and another websites
+Welcome Dears in this SCLP Association platform and it has content related to Supply chain, Logistic Operations and Procurement, otherwise i add below down multi link from Linkedin platform and another websites
 
 https://www.ascm.org/
 
