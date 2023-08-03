@@ -5,7 +5,7 @@ Welcome Dears in this SCLP Association platform and it has content related to Su
 
 https://www.ascm.org/
 
-https://cscmp.org/
+https://www.cscmp.org/
 
 https://www.linkedin.com/posts/yazeed-hujaili-26a42a1a6_procurementabrart-activity-6966835267781431296-N_Np?utm_source=share&utm_medium=member_android,
 
