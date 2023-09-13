@@ -1,11 +1,14 @@
 ![cscmp](https://github.com/SCLP-Association/Logistic-service/assets/98842320/126252f6-bf94-4a1a-9302-954f43ac701c)
 ![ascm](https://github.com/SCLP-Association/Logistic-service/assets/98842320/6b88238d-c5ee-474a-bc59-de805d09ba71)
+![395x525-ismag_ja22](https://github.com/SCLP-Association/Logistic-service/assets/98842320/2ceab1ee-67e8-4b6a-a43a-78d048cd1e9b)
 
 Welcome Dears in this SCLP Association platform and it has content related to Supply chain, Logistic Operations and Procurement, otherwise i add below down multi link from Linkedin platform and another websites
 
 https://www.ascm.org/
 
 https://www.cscmp.org/
+
+https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/2023-july-august/
 
 https://www.supplychaintoday.com/
 
