@@ -1,0 +1,107 @@
+feature-upgrade-to-grails-3.3.10
+  {
+  "digest": "sha256:9dab17302e8d717bcffc5100c70f118355e9bef4b7dae720136b11449eb8bf6d",
+  "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+  "size": 2205,
+  "config": {
+    "digest": "sha256:d55087ef917211d620156e12853df30ae249c7349c8e2180fcd3778dc14e7546",
+    "mediaType": "application/vnd.docker.container.image.v1+json",
+    "size": 7148
+  },
+  "layers": [
+    {
+      "digest": "sha256:b4d181a07f8025e00e0cb28f1cc14613da2ce26450b80c54aea537fa93cf3bda",
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "size": 27145851
+    },
+    {
+      "digest": "sha256:3ee45ae9730633057cf9bd12924f9a1bf2b590631d3d085b14c96f4466557794",
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "size": 3268886
+    },
+    {
+      "digest": "sha256:3346229aaa8035c095bb0a01147fa25b7ee72d62fb757cbd2dcf092c2822075a",
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "size": 212
+    },
+    {
+      "digest": "sha256:972014a9dd093874fe3fde56c5116c7873bdbc23967182bca17a5a6bf32389fc",
+      "mediaType": "application/vnd.oci.image.layer.v1.tar+gzip",
+      "size": 41598879
+    },
+    {
+      "digest": "sha256:f27a36fa9fdde009f75f83a9320b1e9712dc4744f2c40441a75233c457098011",
+      "mediaType": "application/x-gzip",
+      "size": 93
+    },
+    {
+      "digest": "sha256:948ad434f69dc1cb95ee0e24d9d7f3c7af09102df70510e71f1f509ee813dc30",
+      "mediaType": "application/x-gzip",
+      "size": 121
+    },
+    {
+      "digest": "sha256:38b7e063a558688efb2520af98724688ce41a46659b5bcf0247cfb99c1001e95",
+      "mediaType": "application/x-gzip",
+      "size": 1707
+    },
+    {
+      "digest": "sha256:90d0d67024f81e97cc38c09b6c030070560b1a83706b3e76e03662c1812ed7a5",
+      "mediaType": "application/x-gzip",
+      "size": 15980414
+    },
+    {
+      "digest": "sha256:6cd8580f2b4c5aaba4e6e6b9880198bb23e1b4aeb1bad1ee08edadbcd3b9833f",
+      "mediaType": "application/x-gzip",
+      "size": 157764806
+    },
+    {
+      "digest": "sha256:d55087ef917211d620156e12853df30ae249c7349c8e2180fcd3778dc14e7546",
+      "mediaType": "text/plain; charset=utf-8",
+      "size": 7148
+    }
+  ],
+  "labels": {
+    "maintainer": "support@openboxes.com",
+    "org.opencontainers.image.source": "https://github.com/openboxes/openboxes",
+    "org.opencontainers.image.title": "openboxes",
+    "org.opencontainers.image.revision": "ab5ae829d7506f1ea1b7ba4bd42f5be097c23ea5",
+    "org.opencontainers.image.created": "2023-10-27T16:50:43.313Z",
+    "org.opencontainers.image.version": "feature-upgrade-to-grails-3.3.10",
+    "org.opencontainers.image.description": "OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.",
+    "org.opencontainers.image.url": "https://github.com/openboxes/openboxes",
+    "org.opencontainers.image.licenses": "EPL-1.0"
+  }
+}
+Details
+openboxes
+@openboxes
+openboxes
+openboxes/openboxes
+3 days ago
+EPL-1.0
+Download activity
+Total downloads
+1
+Last 30 days
+1
+Last week
+1
+Today
+0
+Other tags on this version
+feature-upgrade-to-grails-3.3.10
+View all versions
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
